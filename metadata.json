@@ -1,0 +1,7 @@
+{
+  "name": "AI Tutor",
+  "description": "A professional AI-driven personalized learning platform that offers 24/7 academic support across all subjects.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
